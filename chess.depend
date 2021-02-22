@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1613993218 source:c:\users\micha\desktop\chess\chess\chessmech.cpp
+	"chessmech.h"
+
+1613994349 c:\users\micha\desktop\chess\chess\chessmech.h
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<cstdlib>
+	<conio.h>
+	<stack>
+
+1613956157 source:c:\users\micha\desktop\chess\chess\chessmenu.cpp
+	"chessmenu.h"
+
+1613986480 c:\users\micha\desktop\chess\chess\chessmenu.h
+	<vector>
+	<iostream>
+	<string>
+	<functional>
+	<cstdlib>
+	<conio.h>
+
+1613994036 source:c:\users\micha\desktop\chess\chess\main.cpp
+	<iostream>
+	<string>
+	"chessmenu.h"
+	"chessmech.h"
+	<windows.h>
+
