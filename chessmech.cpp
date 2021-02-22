@@ -221,6 +221,9 @@ void Match::display(char selected_row){
                 case 15:
                     cout << "r: restart";
                     break;
+                case 16:
+                    cout << "u: undo";
+                    break;
               }
             }
         }
