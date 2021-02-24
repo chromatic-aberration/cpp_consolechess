@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="chessmech.cpp" />
+		<Unit filename="chessmech.h" />
+		<Unit filename="chessmenu.cpp" />
+		<Unit filename="chessmenu.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
